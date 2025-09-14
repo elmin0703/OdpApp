@@ -62,7 +62,7 @@ The app follows **MVVM architecture** for clean separation of concerns:
 4. Launch the app on an emulator or a physical device
 
 ### APK download
-[Click here to download APK for installing app on your phone](https://drive.google.com/file/d/1i4z98PKQruJ81ONERbggfzBowj5N7Mf7/view?usp=sharing)
+[Click here to download APK for installing app on your phone](https://drive.google.com/file/d/1lR6QTiD1Xyl1WqchlrTB8nKeP2WQGzPN/view?usp=sharing)
 
 ## Author
 * Author: Elmin Bekrić
