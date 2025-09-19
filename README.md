@@ -1,6 +1,7 @@
 # ODP App – Open Data Portal BiH
 
-ODP App is an Android application built with **Kotlin** and **Jetpack Compose** that allows users to explore, filter, and visualize datasets from the [Open Data Portal of Bosnia and Herzegovina (IDDEEA)](http://odp.iddeea.gov.ba).  
+ODP App is an Android application built with **Kotlin** and **Jetpack Compose** that allows users to explore, filter, and visualize datasets from the 
+[Open Data Portal of Bosnia and Herzegovina (IDDEEA)](http://odp.iddeea.gov.ba).  
 It offers offline functionality, powerful filtering/sorting, and interactive visualizations, making open data accessible on mobile devices.
 
 ---
